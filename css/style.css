@@ -8,3 +8,10 @@ p {
 section span {
 	color: blue;
 }
+/* Свойство font-family (шрифт элемента) */
+.arial {
+	font-family: arial;
+}
+.verdana {
+	font-family: verdana;
+}
