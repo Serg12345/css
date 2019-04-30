@@ -2,16 +2,18 @@
 p {
 	color: orange;
 }
-.text {
+p.text {
 	color: yellow;
 }
 section span {
 	color: blue;
 }
-/* Свойство font-family (шрифт элемента) */
-.arial {
+/* Свойство font-family (шрифт элемента), font-size (размер шрифта) */
+p.arial {
 	font-family: arial;
+	font-size: 14px;
 }
-.verdana {
+p.verdana {
 	font-family: verdana;
+	font-size: 18px;
 }
