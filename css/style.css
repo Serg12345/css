@@ -8,12 +8,14 @@ p.text {
 section span {
 	color: blue;
 }
-/* Свойство font-family (шрифт элемента), font-size (размер шрифта) */
+/* Свойство font-family (шрифт элемента), font-size (размер шрифта), font-style */
 p.arial {
 	font-family: arial;
 	font-size: 14px;
+	font-style: italic; 
 }
 p.verdana {
 	font-family: verdana;
 	font-size: 18px;
+	font-style: normal;
 }
