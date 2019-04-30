@@ -1,10 +1,10 @@
 body {
-	font-size: 24px;
+	font-size: 16px;
 }
-/* Свойство font-weight (толщина текста) */
+/* Свойство font-variant (конвертирует шрифт в маленькие заглавные буквы) */
 p.first {
-	font-weight: normal;
+	font-variant: normal;
 }
 p.second {
-	font-weight: bold;
+	font-variant: small-caps;
 }
