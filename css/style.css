@@ -1,21 +1,10 @@
-/* Комментарий */
-p {
-	color: orange;
+body {
+	font-size: 24px;
 }
-p.text {
-	color: yellow;
+/* Свойство font-weight (толщина текста) */
+p.first {
+	font-weight: normal;
 }
-section span {
-	color: blue;
-}
-/* Свойство font-family (шрифт элемента), font-size (размер шрифта), font-style */
-p.arial {
-	font-family: arial;
-	font-size: 14px;
-	font-style: italic; 
-}
-p.verdana {
-	font-family: verdana;
-	font-size: 18px;
-	font-style: normal;
+p.second {
+	font-weight: bold;
 }
